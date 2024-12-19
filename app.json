@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PjQg1Q7A#KYFzRiSRZdwno2mgKdqtRS3OTXBHDWA6wL5Lko9LZzA",
       "required": true,
       "value": "mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
     },  
